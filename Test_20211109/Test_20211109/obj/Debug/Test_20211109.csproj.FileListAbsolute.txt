@@ -1,0 +1,11 @@
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.AssemblyReference.cache
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.SuggestedBindingRedirects.cache
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.Form1.resources
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.Properties.Resources.resources
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.GenerateResource.cache
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.CoreCompileInputs.cache
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.exe.config
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.exe
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.pdb
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.exe
+E:\Nová složka (2)\Test_20211109-master\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.pdb
